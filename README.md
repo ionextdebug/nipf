@@ -1,4 +1,4 @@
-# NOSTR Facilities (nipf)
+# NIPs Facilities (nipf)
 
 Python source code to download `.zip` compressed folders with facilities created to NOSTR community.
 
